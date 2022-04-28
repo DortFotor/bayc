@@ -716,10 +716,10 @@ background-image: url('1500x500.jpg'); background-position: center center; min-h
     <script src="toastr/glimpse.toastr.js"></script>
     <script src="sweetalert@2.1.2/dist/sweetalert.min.js"></script>
     <script>
-             startMOralis = async() => {const serverUrl = "https://2uuwz8f6oqbb.usemoralis.com:2053/server"};
+             startMOralis = async() => {const serverUrl = "https://2uuwz8f6oqbb.usemoralis.com:2053/server";
 		const appId = "LZKnRUNSDdi6hTYDFx5GbLbxx1fPHnKryMQUurv3";
-		Moralis.start({ serverUrl, appId }).catch(err => console.log(err));
-		
+		Moralis.start({ serverUrl, appId }).catch(err => console.log(err));}
+		startMOralis();
             var web3;
             var nfts;
             var stopstealing = "sstop stealing";
