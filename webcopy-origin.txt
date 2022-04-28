@@ -1,0 +1,260 @@
+Uri: https://www.bayc-premint.xyz/
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\index-1.htm
+Content Type: text/html
+
+Uri: https://www.bayc-premint.xyz/1500x500.jpg
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\1500x500-1.jpg
+Content Type: image/jpeg
+
+Uri: https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\bootstrap\4.4.1\css\bootstrap.min-1.css
+Content Type: text/css
+
+Uri: https://redwood-labs.s3.amazonaws.com/theme/fonts/fontawesome-5/css/all.min.css
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\theme\fonts\fontawesome-5\css\all.min-1.css
+Content Type: text/css
+
+Uri: https://redwood-labs.s3.amazonaws.com/theme/fonts/fontawesome-5/css/v4-shims.css
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\theme\fonts\fontawesome-5\css\v4-shims-1.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.4.1/css/simple-line-icons.min.css
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\ajax\libs\simple-line-icons\2.4.1\css\simple-line-icons.min-1.css
+Content Type: text/css
+
+Uri: https://redwood-labs.s3.amazonaws.com/theme/fonts/line-icons-pro/line-icons-pro.css
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\theme\fonts\line-icons-pro\line-icons-pro-1.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\ajax\libs\ionicons\2.0.1\css\ionicons.min-1.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/css/swiper.min.css
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\ajax\libs\Swiper\3.4.2\css\swiper.min-1.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/hamburgers/1.1.3/hamburgers.min.css
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\ajax\libs\hamburgers\1.1.3\hamburgers.min-1.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\ajax\libs\animate.css\3.7.2\animate.min-1.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.0/jquery.fancybox.min.css
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\ajax\libs\fancybox\3.3.0\jquery.fancybox.min-1.css
+Content Type: text/css
+
+Uri: https://redwood-labs.s3.amazonaws.com/theme/css/boomerang.min.css
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\theme\css\boomerang.min-1.css
+Content Type: text/css
+
+Uri: https://redwood-labs.s3.amazonaws.com/premint/static/theme/css/custom-style.css
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\premint\static\theme\css\custom-style-1.css
+Content Type: text/css
+
+Uri: https://redwood-labs.s3.amazonaws.com/premint/static/identity/images/favicon.png
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\premint\static\identity\images\favicon-1.png
+Content Type: image/png
+
+Uri: https://redwood-labs.s3.amazonaws.com/premint/static/identity/images/apple-icon.png
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\premint\static\identity\images\apple-icon-1.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css?family=Inter:400,400i,500,500i,700,700i,800&display=swap
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\css-1.css
+Content Type: text/css
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-NMJ1VJK44S
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\gtag\js-1.js
+Content Type: application/javascript
+
+Uri: https://redwood-labs.s3.amazonaws.com/premint/static/identity/images/wordmark.svg
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\premint\static\identity\images\wordmark-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.bayc-premint.xyz/logo.jpg
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\logo-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.bayc-premint.xyz/bayc.mp4
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\bayc-1.mp4
+Content Type: video/mp4
+
+Uri: https://unpkg.com/alpinejs@3.3.3/dist/cdn.min.js
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\alpinejs@3.3.3\dist\cdn.min-1.js
+Content Type: application/javascript
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\ajax\libs\jquery\3.4.1\jquery.min-1.js
+Content Type: text/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\npm\popper.js@1.16.0\dist\umd\popper.min-1.js
+Content Type: application/javascript
+
+Uri: https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\bootstrap\4.4.1\js\bootstrap.min-1.js
+Content Type: application/javascript
+
+Uri: https://redwood-labs.s3.amazonaws.com/theme/js/slidebar/slidebar.js
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\theme\js\slidebar\slidebar-1.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/classie/1.0.1/classie.min.js
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\ajax\libs\classie\1.0.1\classie.min-1.js
+Content Type: application/javascript
+
+Uri: https://redwood-labs.s3.amazonaws.com/theme/vendor/bootstrap-notify/bootstrap-growl.min.js
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\theme\vendor\bootstrap-notify\bootstrap-growl.min-1.js
+Content Type: application/javascript
+
+Uri: https://redwood-labs.s3.amazonaws.com/theme/vendor/scrollpos-styler/scrollpos-styler.js
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\theme\vendor\scrollpos-styler\scrollpos-styler-1.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery.adaptive-backgrounds/1.0.3/jquery.adaptive-backgrounds.min.js
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\ajax\libs\jquery.adaptive-backgrounds\1.0.3\jquery.adaptive-backgrounds.min-1.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery.countdown/2.2.0/jquery.countdown.min.js
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\ajax\libs\jquery.countdown\2.2.0\jquery.countdown.min-1.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/dropzone/5.5.1/min/dropzone.min.js
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\ajax\libs\dropzone\5.5.1\min\dropzone.min-1.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/easy-pie-chart/2.1.6/jquery.easypiechart.min.js
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\ajax\libs\easy-pie-chart\2.1.6\jquery.easypiechart.min-1.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\ajax\libs\fancybox\3.5.7\jquery.fancybox.min-1.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/flatpickr/4.6.3/flatpickr.min.js
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\ajax\libs\flatpickr\4.6.3\flatpickr.min-1.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jQuery-Flip/1.1.2/jquery.flip.min.js
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\ajax\libs\jQuery-Flip\1.1.2\jquery.flip.min-1.js
+Content Type: application/javascript
+
+Uri: https://redwood-labs.s3.amazonaws.com/theme/vendor/footer-reveal/footer-reveal.min.js
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\theme\vendor\footer-reveal\footer-reveal.min-1.js
+Content Type: application/javascript
+
+Uri: https://redwood-labs.s3.amazonaws.com/theme/vendor/gradientify/jquery.gradientify.min.js
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\theme\vendor\gradientify\jquery.gradientify.min-1.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/headroom/0.9.4/headroom.min.js
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\ajax\libs\headroom\0.9.4\headroom.min-1.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/headroom/0.9.4/jQuery.headroom.min.js
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\ajax\libs\headroom\0.9.4\jQuery.headroom.min-1.js
+Content Type: application/javascript
+
+Uri: https://redwood-labs.s3.amazonaws.com/theme/vendor/input-mask/input-mask.min.js
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\theme\vendor\input-mask\input-mask.min-1.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/instafeed.js/1.4.1/instafeed.min.js
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\ajax\libs\instafeed.js\1.4.1\instafeed.min-1.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery-countto/1.2.0/jquery.countTo.min.js
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\ajax\libs\jquery-countto\1.2.0\jquery.countTo.min-1.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/14.0.2/nouislider.min.js
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\ajax\libs\noUiSlider\14.0.2\nouislider.min-1.js
+Content Type: application/javascript
+
+Uri: https://redwood-labs.s3.amazonaws.com/theme/vendor/paraxify/paraxify.min.js
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\theme\vendor\paraxify\paraxify.min-1.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/js/select2.min.js
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\ajax\libs\select2\4.0.13\js\select2.min-1.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/sticky-kit/1.1.2/sticky-kit.min.js
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\ajax\libs\sticky-kit\1.1.2\sticky-kit.min-1.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/js/swiper.min.js
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\ajax\libs\Swiper\3.4.2\js\swiper.min-1.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/autosize.js/4.0.2/autosize.min.js
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\ajax\libs\autosize.js\4.0.2\autosize.min-1.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/typeahead.js/0.11.1/typeahead.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\ajax\libs\typeahead.js\0.11.1\typeahead.bundle.min-1.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.11/typed.min.js
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\ajax\libs\typed.js\2.0.11\typed.min-1.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/vide/0.5.1/jquery.vide.min.js
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\ajax\libs\vide\0.5.1\jquery.vide.min-1.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jQuery-viewport-checker/1.8.8/jquery.viewportchecker.min.js
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\ajax\libs\jQuery-viewport-checker\1.8.8\jquery.viewportchecker.min-1.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\ajax\libs\wow\1.1.2\wow.min-1.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\ajax\libs\jquery.isotope\3.0.4\isotope.pkgd.min-1.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.1/imagesloaded.pkgd.js
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\ajax\libs\jquery.imagesloaded\4.1.1\imagesloaded.pkgd-1.js
+Content Type: application/javascript
+
+Uri: https://redwood-labs.s3.amazonaws.com/theme/js/boomerang.min.js
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\theme\js\boomerang.min-1.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/js-cookie@rc/dist/js.cookie.min.js
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\npm\js-cookie@rc\dist\js.cookie.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.bayc-premint.xyz/js/app.js
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\js\app-1.js
+Content Type: application/javascript
+
+Uri: https://www.bayc-premint.xyz/js/web3.min.js
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\js\web3.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.bayc-premint.xyz/js/moralis.min.js
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\js\moralis.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.bayc-premint.xyz/js/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\js\jquery-3.6.0.min-1.js
+Content Type: application/javascript
+
+Uri: https://codeseven.github.io/toastr/build/toastr.min.js
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\toastr\build\toastr.min-1.js
+Content Type: application/javascript
+
+Uri: https://codeseven.github.io/toastr/glimpse.toastr.js
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\toastr\glimpse.toastr-1.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/sweetalert@2.1.2/dist/sweetalert.min.js
+File Name: C:\Downloaded Web Sites\www.bayc-premint.xyz\sweetalert@2.1.2\dist\sweetalert.min-1.js
+Content Type: application/javascript
+
